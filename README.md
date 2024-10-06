@@ -1,6 +1,5 @@
 # 💫 About Me:
-my name is harald branavan<br>i am a tec boy
-
+Hi! I’m Harald Branavan, a young tech enthusiast from Sri Lanka with a deep passion for everything technology-related. From Linux systems to full-stack development, I’m fascinated by the entire tech landscape and constantly exploring new trends and innovations. My focus is on building efficient, scalable solutions while continuously expanding my skills in areas like cloud computing, DevOps, and open-source technologies.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/haraldboos) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/haraldboos) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haraldboos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haraldbranavan) 
