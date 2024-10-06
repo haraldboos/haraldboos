@@ -18,6 +18,7 @@ Hi! I’m Harald Branavan, a young tech enthusiast from Sri Lanka with a deep pa
 ![](https://github-contributor-stats.vercel.app/api?username=haraldboos&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=haraldboos&icon=0&color=13)](https://visitcount.itsvg.in)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haraldboos&bg_color=121111&color=f5f5f5&line=3e6545&point=24ff65&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
